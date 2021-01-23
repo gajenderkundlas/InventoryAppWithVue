@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\InvBusinessLayer\bin\Debug\netcoreapp3.1\InvBusinessLayer.deps.json
+C:\Users\PC\source\repos\InvBusinessLayer\bin\Debug\netcoreapp3.1\InvBusinessLayer.dll
+C:\Users\PC\source\repos\InvBusinessLayer\bin\Debug\netcoreapp3.1\InvBusinessLayer.pdb
+C:\Users\PC\source\repos\InvBusinessLayer\bin\Debug\netcoreapp3.1\InvDatabaseLayer.dll
+C:\Users\PC\source\repos\InvBusinessLayer\bin\Debug\netcoreapp3.1\InvDatabaseLayer.pdb
+C:\Users\PC\source\repos\InvBusinessLayer\obj\Debug\netcoreapp3.1\InvBusinessLayer.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\InvBusinessLayer\obj\Debug\netcoreapp3.1\InvBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\InvBusinessLayer\obj\Debug\netcoreapp3.1\InvBusinessLayer.AssemblyInfo.cs
+C:\Users\PC\source\repos\InvBusinessLayer\obj\Debug\netcoreapp3.1\InvBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\InvBusinessLayer\obj\Debug\netcoreapp3.1\InvBusinessLayer.csproj.CopyComplete
+C:\Users\PC\source\repos\InvBusinessLayer\obj\Debug\netcoreapp3.1\InvBusinessLayer.dll
+C:\Users\PC\source\repos\InvBusinessLayer\obj\Debug\netcoreapp3.1\InvBusinessLayer.pdb

@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\InvDatabaseLayer\bin\Debug\netcoreapp3.1\InvDatabaseLayer.deps.json
+C:\Users\PC\source\repos\InvDatabaseLayer\bin\Debug\netcoreapp3.1\InvDatabaseLayer.dll
+C:\Users\PC\source\repos\InvDatabaseLayer\obj\Debug\netcoreapp3.1\InvDatabaseLayer.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\InvDatabaseLayer\obj\Debug\netcoreapp3.1\InvDatabaseLayer.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\InvDatabaseLayer\obj\Debug\netcoreapp3.1\InvDatabaseLayer.AssemblyInfo.cs
+C:\Users\PC\source\repos\InvDatabaseLayer\bin\Debug\netcoreapp3.1\InvDatabaseLayer.pdb
+C:\Users\PC\source\repos\InvDatabaseLayer\obj\Debug\netcoreapp3.1\InvDatabaseLayer.dll
+C:\Users\PC\source\repos\InvDatabaseLayer\obj\Debug\netcoreapp3.1\InvDatabaseLayer.pdb
+C:\Users\PC\source\repos\InvDatabaseLayer\obj\Debug\netcoreapp3.1\InvDatabaseLayer.csproj.CoreCompileInputs.cache
